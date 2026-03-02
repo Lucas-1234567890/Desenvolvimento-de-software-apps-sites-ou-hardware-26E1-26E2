@@ -56,7 +56,7 @@ Estruturar dados operacionais e financeiros, transformando informações dispers
 - Power BI
 - Excel
 - Power Query
-- Automação de processos
+- Python
 - Estrutura preparada para futura integração com banco de dados (SQL)
 
 ---
